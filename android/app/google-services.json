@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "641708501725",
+    "project_id": "voting-system-adb69",
+    "storage_bucket": "voting-system-adb69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641708501725:android:8d94bab40c01ee73d18934",
+        "android_client_info": {
+          "package_name": "com.jacmwas.electchain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641708501725-dt7lnebqg642p7oipdnr2u28rpumj7r9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB30OVy-_42uVspzyVkaPlhSsDtEiZ0XCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "641708501725-dt7lnebqg642p7oipdnr2u28rpumj7r9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
